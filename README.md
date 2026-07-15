@@ -10,7 +10,7 @@ follow-ups for companies that don't reply.
 > repetitive. This agent automates the research and outreach while keeping a
 > manual review step before anything is actually sent.
 
-**[Watch a 90-second demo](https://youtu.be/4v-L9pwgLjI)**
+**[Watch a 90-second demo](https://www.loom.com/share/cd9e4c3ad8fa4e1e9958d7c49bb65149)**
 
 ## Note on running this yourself
 
